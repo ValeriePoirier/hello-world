@@ -1,3 +1,3 @@
 # hello-world
 LOOP
-Im just a girl with D1T trying trying execute on the Github
+Im just a girl with D1T trying execute on the Github
